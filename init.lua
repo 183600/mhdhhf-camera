@@ -1,0 +1,18 @@
+appname="Mhdhhf相机"
+appver="2.2"
+appcode="20200827"
+appsdk="15"
+path_pattern=""
+packagename="com.mhdhhf.camera"
+theme="Theme"
+app_key=""
+app_channel=""
+developer="qwe12345678"
+description=""
+debugmode=true
+user_permission={
+  "CAMERA",
+  "INTERNET",
+  "VIBRATE",
+  "WRITE_EXTERNAL_STORAGE"
+}

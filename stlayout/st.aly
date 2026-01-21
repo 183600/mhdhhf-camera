@@ -1,0 +1,12 @@
+{
+  LinearLayout;--线性布局
+  Orientation='vertical';--布局方向
+  layout_width='fill';--布局宽度
+  layout_height='fill';--布局高度
+  {
+    ListView;
+    id="设置list";
+    layout_width="fill";
+    dividerHeight="0";
+  };
+};
